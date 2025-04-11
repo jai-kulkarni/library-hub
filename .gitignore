@@ -1,0 +1,13 @@
+# Frontend
+frontend/node_modules/
+
+# Backend
+backend/__pycache__/
+backend/venv/
+backend/db.sqlite3
+backend/api/__pycache__/
+backend/users/__pycache__/
+backend/backend/__pycache__/
+backend/api/migrations/
+backend/users/migrations/
+backend/backend/migrations/
