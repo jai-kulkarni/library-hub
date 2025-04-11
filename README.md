@@ -1,6 +1,6 @@
 # 📖 Library Hub
 
-Library Hub is a full-stack book management and review platform. It allows users to browse books, submit reviews, rate books, and manage their own reviews. Built with Django REST Framework for the backend and React (with Tailwind CSS) for the frontend, BookHive provides a seamless and interactive user experience.
+Library Hub is a full-stack book management and review platform. It allows users to browse books, submit reviews, rate books, and manage their own reviews. Built with Django REST Framework for the backend and React (with Tailwind CSS) for the frontend, Library Hub provides a seamless and interactive user experience.
 
 ---
 
