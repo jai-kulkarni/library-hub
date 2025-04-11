@@ -47,6 +47,7 @@ Library Hub is a full-stack book management and review platform. It allows users
    ```
 4. **Run migrations**
    ```sh
+   python manage.py makemigrations
    python manage.py migrate
    ```
 5. **Create a superuser**
